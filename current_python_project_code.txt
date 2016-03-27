@@ -1,0 +1,82 @@
+Computing
+
+week 1
+http://www.codeskulptor.org/#user40_onEErhgKD1_13.py
+http://www.codeskulptor.org/#user40_nSebiFufVvSkfNy.py
+
+week 2
+http://www.codeskulptor.org/#user40_AW4Lo55eJ7_22.py
+
+week 3
+http://www.codeskulptor.org/#user40_0smziyzPU2_20.py
+http://www.codeskulptor.org/#poc_ttt_provided.py
+http://www.codeskulptor.org/#poc_ttt_gui.py
+
+week 4
+http://www.codeskulptor.org/#user40_RpZkgA0nyU_16.py
+
+week 5
+http://www.codeskulptor.org/#user40_N1WfS05bhX_33.py
+http://www.codeskulptor.org/#poc_clicker_provided.py
+http://www.codeskulptor.org/#poc_greedy_solution.py
+
+week 6
+http://www.codeskulptor.org/#user40_K6dzgFRGvN_1.py
+
+http://www.codeskulptor.org/#poc_grid.py
+http://www.codeskulptor.org/#poc_queue.py
+http://www.codeskulptor.org/#poc_zombie_gui.py
+http://www.codeskulptor.org/#poc_wildfire_student.py
+
+week 7
+http://www.codeskulptor.org/#user40_CVhPlLGaeh_3.py
+
+week 8
+
+http://www.codeskulptor.org/#user40_fUAdv0Qy4j_14.py
+
+http://www.codeskulptor.org/#user40_8UQpWujbaT_0.py - tree_class
+http://www.codeskulptor.org/viz/#poc_arith_expression.py
+http://www.codeskulptor.org/#poc_draw_tree.py
+
+week 9
+http://www.codeskulptor.org/#user40_TdvqN4NpFU_8.py 
+
+http://www.codeskulptor.org/#user40_HzH5ZVBrz1_0.py - find reverse complement move
+http://www.codeskulptor.org/#poc_fifteen_gui.py
+
+Python
+
+week 1
+http://www.codeskulptor.org/#user40_UlhotmAUKq_3.py
+
+week 2
+http://www.codeskulptor.org/#user40_JuLDbApWmj_16.py
+http://www.codeskulptor.org/#user40_qZBXMK233KFkh01.py
+
+week 3
+http://www.codeskulptor.org/#user40_9XZNkbrum6_16.py
+http://www.codeskulptor.org/#user40_OAn1eGUGQH0m434.py
+
+week 4
+http://www.codeskulptor.org/#user40_wdMu9wnOwV_21.py
+http://www.codeskulptor.org/#user40_0lAW133EtC2CB1W.py
+
+week 5
+http://www.codeskulptor.org/#user40_IUT27BlBwH_10.py
+http://www.codeskulptor.org/#user40_7HBhozksc5Rhtwn.py
+
+week 6
+http://www.codeskulptor.org/#user40_OSX1FXZMuj_20.py
+http://www.codeskulptor.org/#user40_hDJRJiy5lBKdzLQ.py
+
+week 7
+http://www.codeskulptor.org/#user40_wZTzS25Ayq_20.py
+http://www.codeskulptor.org/#user40_z45l2yqxgrhPE13.py
+
+week 8
+http://www.codeskulptor.org/#user40_AZdeKXyQxk_14.py
+http://www.codeskulptor.org/#user40_taTI0h388bJzK6k.py
+
+
+
